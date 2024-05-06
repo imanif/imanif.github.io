@@ -1,11 +1,11 @@
 ---
-title: "Tutorial 1 on Relevant Topic in Your Field"
+title: "Literature in the Age of Mechanical Reproduction"
 collection: talks
-type: "Tutorial"
-permalink: /talks/2013-03-01-tutorial-1
-venue: "UC-Berkeley Institute for Testing Science"
-date: 2013-03-01
-location: "Berkeley CA, USA"
+type: "Presentation"
+permalink: /talks/theory-colloquiuim-presentation
+venue: "Cornell University, Department of Comparative Literature"
+date: 02-16-2024
+location: "Ithaca, NY"
 ---
 
 [More information here](http://exampleurl.com)
