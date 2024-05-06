@@ -11,14 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+B.A. in Literatures in English (minors in Computer Science & Comparative Literature), Cornell University, 2024
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
+* Communications Assistant
+  * Cornell University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
@@ -34,12 +32,14 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Top 3 Programming languages: Python, Java, C#
+* Project Management
+* Machine Learning Model Development
+  * PyTorch
+  * NumPy
+  * JAX
+* Technical Writing
+* Foreign Languages: Mandarin Chinese (Advanced Working Proficiency), Danish (Beginner)
 
 Publications
 ======
@@ -61,4 +61,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Underrepresented Minorities in Computing, Cornell University, 2022 President
+* Cornell Data Science, Cornell University, Fall 2023 Project Lead
