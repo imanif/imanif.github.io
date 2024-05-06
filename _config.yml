@@ -28,7 +28,7 @@ author:
   location         : "Ithaca, NY"
   employer         : "Cornell University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ief4@cornell.edu"` 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -47,7 +47,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "imanifinkley"# Username
+  linkedin         : "imanifinkley" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
