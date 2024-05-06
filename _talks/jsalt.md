@@ -10,4 +10,4 @@ location: "Le Mans, France"
 
 Presenting PyLAST, a PyTorch software library version of LAST (Google) that demonstrates the benefits of using weighted finite state algorithms for speech applications!
 
-Watch the presentation (1:45-52) [here](https://www.youtube.com/watch?v=O9vw5TDZ2Ug)
+[Watch the presentation](https://www.youtube.com/watch?v=O9vw5TDZ2Ug) (1:45-52)
