@@ -4,7 +4,7 @@ collection: talks
 type: "Presentations"
 permalink: /talks/ugradthesis-presentation
 venue: "Cornell University, A.D. White House"
-date: 05-03-2024
+date: 2024-05-03
 location: "Ithaca, NY"
 ---
 
