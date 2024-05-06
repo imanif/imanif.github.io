@@ -5,7 +5,7 @@ permalink: /publication/ByAI
 excerpt: 'This undergraduate honors thesis explores the effects of generative-AI literature on the future of the literary canon'
 date: 2024-04-19
 venue: 'Cornell University, Department of Literatures in English'
-paperurl: 'http://imanif.github.io/files/paper1.pdf'
+paperurl: 'http://imanif.github.io/files/Finkley_HonorsThesis.pdf'
 citation: 'Finkley, Imani. (2024). &quot;By AI: Authorship, Literature, and Large Language Models.&quot; <i>Cornell University</i>. 1(1).'
 ---
 
