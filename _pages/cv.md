@@ -15,20 +15,17 @@ B.A. in Literatures in English (minors in Computer Science & Comparative Literat
 
 Work experience
 ======
-* Communications Assistant
+* **Communications Assistant**, *Sep 2023-Present*
   * Cornell University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Duties include: Developing media content, stories and strategies on DEI initiatives within Cornell Ann S. Bowers College of Computing and Information Science
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **NLP Researcher**, *Jun 2023-Aug 2023*
+  * Johns Hopkins University
+  * Duties include: Developing PyTorch software library that utilizes weighted finite state algorithms and maintains comparable functionality to LAST (Google)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Computer Vision Researcher**, *Jun 2022-Aug 2022*
+  * Brown University
+  * Duties included: Design language-base image translation model using pix2pix architecture
   
 Skills
 ======
