@@ -8,6 +8,4 @@ date: 2024-02-16
 location: "Ithaca, NY"
 ---
 
-[More information here](http://exampleurl.com)
-
-This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+As part of the Theory Colloquiuim series hosted by the Department of Comparative Literature at Cornell University, Imani was invited to speak at one colloquia whose theme surrounded translation. Her presentation on a chapter of her undergraduate honors thesis, "By AI: Authorship, Literature, and Large Language Models," examined how literature translates the self and human experience and then posing question of if and should we expect generative AI (ChatGPT, in particular) to do the same.
