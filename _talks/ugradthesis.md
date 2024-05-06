@@ -1,7 +1,7 @@
 ---
 title: "By AI: Authorship, Literature, and Large Language Models"
 collection: talks
-type: "Presentations"
+type: "Presentation"
 permalink: /talks/ugradthesis-presentation
 venue: "Cornell University, A.D. White House"
 date: 2024-05-03
