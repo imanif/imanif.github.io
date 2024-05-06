@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+[Resume PDF](imanif.github.io/files/resume.pdf)
+
+
+[CV PDF](imanif.github.io/files/cv.pdf)
+
+
 Education
 ======
 B.A. in Literatures in English (minors in Computer Science & Comparative Literature), Cornell University, 2024
