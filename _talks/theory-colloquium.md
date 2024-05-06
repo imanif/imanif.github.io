@@ -4,7 +4,7 @@ collection: talks
 type: "Presentation"
 permalink: /talks/theory-colloquiuim-presentation
 venue: "Cornell University, Department of Comparative Literature"
-date: 02-16-2024
+date: 2024-02-16
 location: "Ithaca, NY"
 ---
 
