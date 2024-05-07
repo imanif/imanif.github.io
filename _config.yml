@@ -12,7 +12,7 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Imani Finkley"
 description              : &description "personal description"
-url                      : https://imanif.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://imanif.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "imanif/imanif.github.io"
 
@@ -28,7 +28,7 @@ author:
   location         : "Ithaca, NY"
   employer         : "Cornell University"
   uri              : # URL
-  email            : "ief4@cornell.edu" 
+  email            : "imaniefinkley@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
