@@ -1,0 +1,64 @@
+---
+layout: default
+---
+
+{% include base_path %}
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+{% include page__hero.html %}
+{% endif %}
+
+{% if page.url != "/" and site.breadcrumbs %}
+{% unless paginator %}
+{% include breadcrumbs.html %}
+{% endunless %}
+{% endif %}
+
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }}{% else %}Home Page{% endif %}</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'FreeMono', monospace;
+    }
+
+    .container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    .content {
+      text-align: left;
+    }
+
+    .content span {
+      margin-left: 40px;
+      font-size: 3em;
+      font-weight: bold;
+    }
+
+    .content span.second-line {
+      font-size: 2em;
+      font-style: italic;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="container">
+    <div class="content">
+      <span>imani</span><br>
+      <span class="second-line">humanties scholar & ML researcher</span>
+    </div>
+  </div>
+
+</body>
+
+</html>
