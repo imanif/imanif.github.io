@@ -18,6 +18,7 @@ redirect_from:
 Education
 ======
 B.A. in Literatures in English (minors in Computer Science & Comparative Literature), Cornell University, 2024
+Computer Science, Danish Institute for Study Abroad, 2023
 
 Work experience
 ======
