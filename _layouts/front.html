@@ -14,6 +14,7 @@ layout: default
 {% endunless %}
 {% endif %}
 
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -24,13 +25,32 @@ layout: default
     body {
       margin: 0;
       font-family: 'Georgia', serif;
+      display: flex;
     }
 
-    .container {
+    .image-container {
+      position: fixed;
+      left: 0;
+      top: 0;
+      bottom: 0;
+      width: 200px;
+      /* Adjust this width as needed */
+    }
+
+    .image-container img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .main-content {
+      margin-left: 200px;
+      /* Same width as the image container */
       display: flex;
       justify-content: center;
       align-items: center;
       height: 100vh;
+      width: calc(100% - 200px);
     }
 
     .content {
@@ -53,7 +73,11 @@ layout: default
 
 <body>
 
-  <div class="container">
+  <div class="image-container">
+    <img src="/images/front_cover.png">
+  </div>
+
+  <div class="main-content">
     <div class="content">
       <span>imani</span><br>
       <span class="second-line">humanities scholar & ML researcher</span>
@@ -63,3 +87,82 @@ layout: default
 </body>
 
 </html>
+
+
+<!-- ---
+layout: default
+---
+
+{% include base_path %}
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+{% include page__hero.html %}
+{% endif %}
+
+{% if page.url != "/" and site.breadcrumbs %}
+{% unless paginator %}
+{% include breadcrumbs.html %}
+{% endunless %}
+{% endif %}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }}{% else %}Home Page{% endif %}</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Georgia', serif;
+    }
+
+    .container {
+      display: flex;
+    }
+
+    .image {
+      flex: 1;
+    }
+
+    .content {
+      flex: 2;
+      text-align: left;
+    }
+
+    .content span {
+      margin-left: 40px;
+      font-size: 3em;
+      font-weight: bold;
+    }
+
+    .content span.second-line {
+      font-size: 2em;
+      font-weight: 100;
+      font-style: italic;
+    }
+
+    img {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="container">
+    <div class="image">
+      <img src="background.jpg">
+    </div>
+    <div class="content">
+      <span>imani</span><br>
+      <span class="second-line">humanities scholar & ML researcher</span>
+    </div>
+  </div>
+
+</body>
+
+</html> -->
