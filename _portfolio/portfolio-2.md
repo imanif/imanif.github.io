@@ -15,5 +15,5 @@ Acceptance](https://cis.cornell.edu/decode-it-spoken-word-night-showcases-discov
 Peak](https://cis.cornell.edu/cornell-bowers-cis-students-hit-slopes-greek-peak)
 - [A Night of Celebrating and Inspiring Black
 Excellence](https://cis.cornell.edu/night-celebrating-and-inspiring-black-excellence)
--[Students and Cornell Bowers CIS Faculty Connect at Dinner with the
+- [Students and Cornell Bowers CIS Faculty Connect at Dinner with the
 Deans](https://cis.cornell.edu/students-and-cornell-bowers-cis-faculty-connect-dinner-deans)
