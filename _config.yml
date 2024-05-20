@@ -21,7 +21,7 @@ repository               : "imanif/imanif.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile"
+  avatar           : "profile.png"
   name             : "Imani Finkley"
   pronouns         : "she/her" # example: "she/her"  
   bio              : "Humanities Scholar using ML for social and linguistic inquiry"
