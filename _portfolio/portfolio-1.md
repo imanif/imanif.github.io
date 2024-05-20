@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "imani international"
+excerpt: "Travel blog<br/><img src='/images/imani_intl_profile.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+I was hired by the Danish Institute for Study Abroad (DIS) to write a [blog](https://imaniintl.wordpress.com/) documenting my travels and experiences while studying video game development in Copenhagen, Denmark.
