@@ -22,7 +22,7 @@ Education
 
 Work experience
 ======
-* **Communications Assistant**, *Sep 2023-May 2023*
+* **Communications Assistant**, *Sep 2023-May 2024*
   * Cornell University
   * Duties include: Developing media content, stories and strategies on DEI initiatives within Cornell Ann S. Bowers College of Computing and Information Science
 
@@ -38,7 +38,7 @@ Skills
 ======
 * Top 3 Programming languages: Python, Java, C#
 * Project Management
-* Machine Learning Model Development
+* Machine Learning Model Development:
   * PyTorch
   * NumPy
   * JAX
