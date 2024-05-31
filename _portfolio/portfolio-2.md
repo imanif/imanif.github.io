@@ -1,7 +1,7 @@
 ---
 title: "imani international"
 excerpt: "Travel blog<br/><img src='/images/imani_intl_profile.png'>"
-date: 2024-05-13
+date: 2023-05-13
 collection: portfolio
 ---
 

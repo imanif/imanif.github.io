@@ -1,6 +1,6 @@
 ---
 title: "hyggeLIGHT"
-excerpt: "2D platformer game<br/><img src='/images/500x300.png"
+excerpt: "2D platformer game<br/>"
 date: 2023-03-15
 collection: portfolio
 ---
