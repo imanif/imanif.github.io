@@ -22,7 +22,7 @@ Education
 
 Work experience
 ======
-* **Communications Assistant**, *Sep 2023-Present*
+* **Communications Assistant**, *Sep 2023-May 2023*
   * Cornell University
   * Duties include: Developing media content, stories and strategies on DEI initiatives within Cornell Ann S. Bowers College of Computing and Information Science
 
