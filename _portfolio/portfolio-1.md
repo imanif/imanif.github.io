@@ -1,5 +1,5 @@
 ---
-title: "Communications Assistant for DEI"
+title: "Communications Assistant for Cornell DEI Office"
 excerpt: "Communications work at Cornell University <br />"
 date: 2024-05-15
 collection: portfolio
