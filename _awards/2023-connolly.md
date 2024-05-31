@@ -2,7 +2,7 @@
 title: "2023 Joseph E. Connolly '72 Memorial Prize"
 collection: Awards
 type: "Writing"
-permalink: /talks/Connolly-Prize
+permalink: /awards/Connolly-Prize
 venue: "Cornell University College of Arts & Sciences"
 date: 2023-05-04
 ---
