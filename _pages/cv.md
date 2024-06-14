@@ -66,4 +66,4 @@ Teaching
 Service and leadership
 ======
 * Underrepresented Minorities in Computing, Cornell University, 2022 President
-* Cornell Data Science, Cornell University, Fall 2023 Project Lead
+* Cornell Data Science, Cornell University, Fall 2023 Project Manager
