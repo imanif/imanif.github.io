@@ -17,8 +17,8 @@ redirect_from:
 
 Education
 ======
-* B.A. in Literatures in English, Cornell University, 2024
-* Game Development, Danish Institute for Study Abroad, 2023
+* B.A. in Literatures in English, Cornell University, 2020-2024
+* Game Development, Danish Institute for Study Abroad, Jan 2023 - May 2023
 
 Work experience
 ======
@@ -31,7 +31,7 @@ Work experience
   * Duties include: Developing PyTorch software library that utilizes weighted finite state algorithms and maintains comparable functionality to LAST (Google)
 
 * **Computer Vision Researcher**, *Jun 2022-Aug 2022*
-  * Brown University
+  * Brown University: Visual Computing Lab
   * Duties included: Design language-base image translation model using pix2pix architecture
   
 Skills
