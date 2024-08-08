@@ -22,16 +22,20 @@ Education
 
 Work experience
 ======
+* **Computational Linguistics Research Fellow**, *Aug 2024-Present*
+  * University of Maryland Department of Linguistics | College Park, MD
+  * Duties include: Collaborate with UMD faculty to perform computational linguistics research analyzing linguistic decision in LLMs and leveraging ML techniques for NLU and language education media
+
 * **Communications Assistant**, *Sep 2023-May 2024*
-  * Cornell University
+  * Cornell University | Ithaca, NY
   * Duties include: Developing media content, stories and strategies on DEI initiatives within Cornell Ann S. Bowers College of Computing and Information Science
 
 * **NLP Researcher**, *Jun 2023-Aug 2023*
-  * Johns Hopkins University
+  * Johns Hopkins University | Le Mans, FR
   * Duties include: Developing PyTorch software library that utilizes weighted finite state algorithms and maintains comparable functionality to LAST (Google)
 
 * **Computer Vision Researcher**, *Jun 2022-Aug 2022*
-  * Brown University: Visual Computing Lab
+  * Brown University: Visual Computing Lab | Providence, RI
   * Duties included: Design language-base image translation model using pix2pix architecture
   
 Skills
@@ -43,7 +47,7 @@ Skills
   * NumPy
   * JAX
 * Technical Writing
-* Foreign Languages: Mandarin Chinese (Advanced Working Proficiency), Danish (Beginner)
+* Foreign Languages: Mandarin Chinese (Advanced Working Proficiency), Danish (Beginner Proficiency)
 
 Publications
 ======
