@@ -1,7 +1,10 @@
 ---
-permalink: /about/
+permalink: /
 title: "About"
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 Imani graduated from Cornell University with a B.A. in Literatures in English and extensive experience in machine learning and data science. Currently, she is a Baggett Post-bacc Fellow at the University of Maryland Department of Linguistics performing computational linguistics research focusing on linguistics decisions in LLMs and taking linguistics and computer science coursework at UMD. Imani is driven to study the intersection between literature, language, and computation. Her background ranges from NLP researcher to media communications assistant because, ultimately, she wants to understand how we communicate and engage with one another. Further, in this age of AI, Imani is excited to drive forward research that investigates how LLMs and AI-generated media enhance and alter communication and creativity.  

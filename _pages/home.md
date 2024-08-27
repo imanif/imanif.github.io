@@ -1,6 +1,6 @@
 ---
 layout: front
-permalink: /
+permalink: /homepage
 title: " "
 author_profile: false
 ---
