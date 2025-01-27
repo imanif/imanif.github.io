@@ -16,6 +16,6 @@ Hi! I'm a [post-baccleaurate research fellow](https://linguistics.umd.edu/academ
 
 In doing so, I aim contribute to how we identify LLM-generated texts, understand their societal impact, and propose how we might responsibly respond to this media.
 
-Previously, I've had the opportunity to work with those from the Johns Hopkins Center for Natural Language Processing, Google, Laboratoire d'Informatique de l'Universtié du Mans (LIUM), and the Brown University Visual Computing Lab. I received my B.A from Cornell University with honors for my [thesis](http://imanif.github.io/files/Finkley_HonorsThesis.pdf) that examined generative AI's impact on the literary tradition and the notion of authorship. 
+Previously, I've had the opportunity to work with those from the Johns Hopkins Center for Natural Language Processing, Google, Laboratoire d'Informatique de l'Universitié du Mans (LIUM), and the Brown University Visual Computing Lab. I received my B.A from Cornell University with honors for my [thesis](http://imanif.github.io/files/Finkley_HonorsThesis.pdf) that examined generative AI's impact on the literary tradition and the notion of authorship. 
 
 In my free time, I like to watch anime, discover new restaurants, travel, and read a book from my ever-growing reading list. After learning Mandarin and (some) Danish, I am currently trying to add French to my foreign language repertoire! 
