@@ -18,4 +18,4 @@ In doing so, I will contribute to how we identify LLM-generated texts, understan
 
 Previously, I've had the opportunity to work with those from the Johns Hopkins Center for Natural Language Processing, Google, Laboratoire d'Informatique de l'Université du Mans (LIUM), and the Brown University Visual Computing Lab. I received my B.A. from Cornell University with honors for my [thesis](http://imanif.github.io/files/Finkley_HonorsThesis.pdf) that examined generative AI's impact on the literary tradition and the notion of authorship. 
 
-In my free time, I like to watch anime, discover new restaurants, travel, and read a book from my ever-growing reading list. After learning Mandarin and (some) Danish, I am currently trying to add French to my foreign language repertoire! 
+In my free time, I like to watch anime, discover new restaurants, travel, and reading from my evergrowing TBR list. After learning Mandarin and (some) Danish, I am currently trying to add French to my foreign language repertoire! 
