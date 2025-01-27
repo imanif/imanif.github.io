@@ -14,7 +14,7 @@ Hi! I'm a [post-baccalaureate research fellow](https://linguistics.umd.edu/acade
 - sociocultural objects,
 - and historical objects.
 
-In doing so, I will contribute to how we identify LLM-generated texts, understand their societal impact, and propose how we might responsibly respond to this media.
+In doing so, I aim to contribute to how we identify LLM-generated texts, understand their societal impact, and propose how we might responsibly respond to this media.
 
 Previously, I've had the opportunity to work with those from the Johns Hopkins Center for Natural Language Processing, Google, Laboratoire d'Informatique de l'Université du Mans (LIUM), and the Brown University Visual Computing Lab. I received my B.A. from Cornell University with honors for my [thesis](http://imanif.github.io/files/Finkley_HonorsThesis.pdf) that examined generative AI's impact on the literary tradition and the notion of authorship. 
 
