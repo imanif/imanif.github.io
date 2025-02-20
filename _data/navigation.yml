@@ -2,7 +2,9 @@
 main:
   # - title: "About"
   #  url: /about/ 
-
+  - title: "CV"
+    url: /files/Finkley_CV.pdf
+  
   - title: "Publications"
     url: /publications/
 
@@ -14,12 +16,13 @@ main:
     
   - title: "Portfolio"
     url: /portfolio/
+
+  - title: "Travel Blog"
+    url: https://imaniintl.wordpress.com/
         
-  - title: "Awards"
-    url: /awards/
+  # - title: "Awards"
+  #   url: /awards/
     
-  - title: "CV"
-    url: /files/Finkley_CV.pdf
     
   # - title: "Guide"
   #   url: /markdown/
