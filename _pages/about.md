@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a [post-baccalaureate research fellow](https://linguistics.umd.edu/academic-programs/graduate/baggett) in the Department of Linguistics at the University of Maryland, advised by Dr. [Naomi Feldman](https://users.umiacs.umd.edu/~nhf/). At UMD, my research investigates prompt engineering and LLM memorization. In Autumn 2025, I am excited to start my PhD in Information Science at the [University of Washington](https://ischool.uw.edu/), advised by Dr. [Melanie Walsh](https://melaniewalsh.org/).
+Hi! I am a [post-baccalaureate research fellow](https://linguistics.umd.edu/academic-programs/graduate/baggett) in the Department of Linguistics at the University of Maryland, advised by Dr. [Naomi Feldman](https://users.umiacs.umd.edu/~nhf/). At UMD, my research investigates prompt engineering and LLM memorization.
 
 Broadly, my research interests include natural language generation, user-LLM interaction, and AI policy. Specifically, **my research centers on understanding how language models will impact literature and communication.** I aim to evaluate LLM-generated texts, understand their societal impact, and propose how we might responsibly respond to this media.
 
