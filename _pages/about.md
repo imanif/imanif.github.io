@@ -16,8 +16,8 @@ I've also had the opportunity to work with those from the Johns Hopkins Center f
 In my free time, I like to practice ballet, watch anime, [travel](https://imaniintl.wordpress.com/]), and learn new languages (currently, French).
 
 ## **news**
-:wolf: April 2025: Accepted PhD offer from UW iSchool!
+- April 2025: Accepted PhD offer from UW iSchool!
 
-:turtle: August 2025: Start Baggett Fellowship at the University of Maryland
+- August 2025: Start Baggett Fellowship at the University of Maryland
 
-:mortar_board: May 2024: Graduated from Cornell!
+- May 2024: Graduated from Cornell!
