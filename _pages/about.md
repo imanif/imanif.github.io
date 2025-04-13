@@ -14,3 +14,12 @@ Broadly, my research interests include natural language generation, user-LLM int
 I've also had the opportunity to work with those from the Johns Hopkins Center for Natural Language Processing, Google, Laboratoire d'Informatique de l'Université du Mans (LIUM), and the Brown University Visual Computing Lab. I received my B.A. from Cornell University with honors for my [thesis](http://imanif.github.io/files/Finkley_HonorsThesis.pdf) that examines generative AI's impact on the literary tradition and the notion of authorship. 
 
 In my free time, I like to practice ballet, watch anime, [travel](https://imaniintl.wordpress.com/]), and learn new languages (currently, French).
+
+## **news**
+
+🐺 April 2025: Accepted PhD offer from UW iSchool!!
+
+🐢 August 2025: Start Baggett Fellowship at UMD
+
+🎓 May 2024: Graduated from Cornell!
+
