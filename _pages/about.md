@@ -19,7 +19,7 @@ In my free time, I like to practice ballet, watch anime, [travel](https://imanii
 
 🐺 April 2025: Accepted PhD offer from UW iSchool!!
 
-🐢 August 2025: Start Baggett Fellowship at UMD
+🐢 August 2024: Start Baggett Fellowship at UMD
 
 🎓 May 2024: Graduated from Cornell!
 
