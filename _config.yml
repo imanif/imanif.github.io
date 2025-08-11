@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "imani"
 title_separator          : "-"
 name                     : &name "Imani Finkley"
-description              : &description "personal description"
+description              : &description "1st Year PhD student at University of Washington, focusing on computational humanities"
 url                      : https://imanif.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "imanif/imanif.github.io"
@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Imani Finkley"
   pronouns         : "she/her" # example: "she/her"  
-  bio              : "ifinkley [at] umd [dot] edu"
-  location         : "College Park, MD"
-  employer         : "University of Maryland"
+  bio              : "ifinkley [at] uw [dot] edu"
+  location         : "Seattle, WA"
+  employer         : "University of Washington"
   uri              : # URL
   email            : # URL
 
@@ -78,7 +78,7 @@ teaser                   :  # filename of teaser fallback teaser image placed in
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : false
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
