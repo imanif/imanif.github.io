@@ -1,7 +1,7 @@
 ---
 title: "Workshop Facilitator"
 collection: teaching
-type: "youth program"
+type: "Youth Program"
 permalink: /teaching/aadhum
 venue: "University of Maryland"
 date: 2024-11-18

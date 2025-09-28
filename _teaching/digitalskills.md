@@ -1,7 +1,7 @@
 ---
 title: "Extension Lecturer"
 collection: teaching
-type: "youth program"
+type: "Youth Program"
 permalink: /teaching/digital-skills
 venue: "University of Washington Continuum College"
 date: 2025-09-23
