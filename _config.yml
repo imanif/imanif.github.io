@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "imani"
 title_separator          : "-"
 name                     : &name "Imani Finkley"
-description              : &description "1st Year PhD student at University of Washington, focusing on computational humanities"
+description              : &description "1st Year PhD student at University of Washington, focusing on applied NLP"
 url                      : https://imanif.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "imanif/imanif.github.io"
@@ -21,7 +21,7 @@ repository               : "imanif/imanif.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Imani Finkley"
   pronouns         : "she/her" # example: "she/her"  
   bio              : "ifinkley [at] uw [dot] edu"
