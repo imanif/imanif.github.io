@@ -32,9 +32,9 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # URL
+  googlescholar    : https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AElLoL3nKxpVR_5Oei4WGtlJNxkYX5WUpSBinWABcftaNsKZ4ltFJW3dneyNqZuSKLTZLXZzABt1-oZKJ_SDkQ&user=Lz2L5VgAAAAJ
   impactstory      : # URL
-  orcid            : # URL
+  orcid            : https://orcid.org/0009-0005-2323-4461
   pubmed           : # URL
   researchgate     : # URL
 
