@@ -17,7 +17,7 @@ In my free time, I like to practice ballet, watch anime, [travel](https://imanii
 
 ## **news**
 
-🍎 October 2025: Started teaching at UW Continuum College
+🍎 October 2025: Started teaching at UW Continuum College for the AU25
 
 🐺 April 2025: Accept PhD offer from UW iSchool!!
 
