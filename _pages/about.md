@@ -17,9 +17,21 @@ In my free time, I like to practice ballet, watch anime, [travel](https://imanii
 
 ## **news**
 
-🍎 October 2025: Started teaching at UW Continuum College
+<!-- 👩🏽‍💻 September 2026: starting as a Visiting AI Researcher at Meta FAIR
 
-🐺 April 2025: Accept PhD offer from UW iSchool!!
+✏️ August 2026: survey of fiction in NLP accepted to [EMNLP 2026](https://2026.emnlp.org/)
 
-🐢 August 2024: Start Baggett Fellowship at UMD
+✏️ July 2026: paper on AI autobios accepted to [AIES 2026](https://www.aies-conference.com/2026/)
+
+☀️ June 2026: starting my Summer RAship at [HDSSI26](https://humanitiesdatalab.ds.lib.uw.edu/hdssi/) -->
+
+🧠 April 2026: presenting work on AI-generated autobiographies at the inagural [Intelligence & Imitation Workshop](https://humanitiesofaiworkshop.com/)
+
+✏️ April 2026: first first-author paper on LLM gender bias in children's stories accepted to [FAccT 2026](https://facctconference.org/index.html)!
+
+🍎 October 2025: teaching at UW Continuum College for AU25
+
+🐺 April 2025: accepted PhD offer from UW iSchool!!
+
+🐢 August 2024: starting Baggett Fellowship at UMD
 
