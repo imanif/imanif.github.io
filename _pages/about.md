@@ -29,7 +29,7 @@ In my free time, I like to practice ballet, watch anime, [travel](https://imanii
 
 ☀️ June 2026: starting my Summer RAship at [HDSSI26](https://humanitiesdatalab.ds.lib.uw.edu/hdssi/)
 
-🧠 April 2026: presenting work on AI-generated autobiographies at the inaugural [Intelligence & Imitation Workshop](https://humanitiesofaiworkshop.com/)
+🧠 April 2026: presenting work on AI-generated autobiographies at the inaugural [Hopkins Humanities of AI Workshop](https://humanitiesofaiworkshop.com/)
 
 ✏️ April 2026: first first-author [paper on LLM gender bias in talking animal stories](https://arxiv.org/abs/2606.07969) accepted to [FAccT 2026](https://facctconference.org/index.html)!
 
