@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a first-year Information Science PhD student at the [University of Washington](https://ischool.uw.edu/programs/phd), advised by Dr. [Melanie Walsh](https://melaniewalsh.org/).
+Hi! I am a first-year Information Science PhD student at the [University of Washington](https://ischool.uw.edu/programs/phd), advised by Dr. [Melanie Walsh](https://melaniewalsh.org/). My work is supported by the UW GSEE Graduate Excellence Award.
 
 Broadly, my research interests include natural language generation, user-LLM interaction, and AI policy. Specifically, **my research centers on understanding how language models will impact literature and communication.** I aim to evaluate LLM-generated texts, understand their societal impact, and propose how we might responsibly respond to this media.
 
@@ -17,17 +17,21 @@ In my free time, I like to practice ballet, watch anime, [travel](https://imanii
 
 ## **news**
 
-<!-- 👩🏽‍💻 September 2026: starting as a Visiting AI Researcher at Meta FAIR
+<!-- 🧾 May 2027: passed my general exams, officially a PhD Candidate!
 
-✏️ August 2026: survey of fiction in NLP accepted to [EMNLP 2026](https://2026.emnlp.org/)
+✏️ October 2026: paper on ... accepted to [CHR 2027](https://2027.computational-humanities-research.org/)
 
-✏️ July 2026: paper on AI autobios accepted to [AIES 2026](https://www.aies-conference.com/2026/)
+👩🏽‍💻 September 2026: starting as a Visiting AI Researcher at Meta FAIR
 
-☀️ June 2026: starting my Summer RAship at [HDSSI26](https://humanitiesdatalab.ds.lib.uw.edu/hdssi/) -->
+✏️ August 2026: position paper on LLMs and fiction theory accepted to [EMNLP 2026](https://2026.emnlp.org/)
+
+✏️ July 2026: paper on AI autobios accepted to [AIES 2026](https://www.aies-conference.com/2026/) -->
+
+☀️ June 2026: starting my Summer RAship at [HDSSI26](https://humanitiesdatalab.ds.lib.uw.edu/hdssi/)
 
 🧠 April 2026: presenting work on AI-generated autobiographies at the inaugural [Intelligence & Imitation Workshop](https://humanitiesofaiworkshop.com/)
 
-✏️ April 2026: first first-author paper on LLM gender bias in talking animal stories accepted to [FAccT 2026](https://facctconference.org/index.html)!
+✏️ April 2026: first first-author [paper on LLM gender bias in talking animal stories](https://arxiv.org/abs/2606.07969) accepted to [FAccT 2026](https://facctconference.org/index.html)!
 
 🍎 October 2025: teaching at UW Continuum College for AU25
 
