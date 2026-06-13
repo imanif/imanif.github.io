@@ -31,7 +31,7 @@ In my free time, I like to practice ballet, watch anime, [travel](https://imanii
 
 🧠 April 2026: presenting work on AI-generated autobiographies at the inaugural [Hopkins Humanities of AI Workshop](https://humanitiesofaiworkshop.com/)
 
-✏️ April 2026: first first-author [paper on LLM gender bias in talking animal stories](https://arxiv.org/abs/2606.07969) accepted to [FAccT 2026](https://facctconference.org/index.html)!
+✏️ April 2026: my first first-author [paper](https://arxiv.org/abs/2606.07969) on LLM gender bias in talking animal stories accepted to [FAccT 2026](https://facctconference.org/index.html)!
 
 🍎 October 2025: teaching at UW Continuum College for AU25
 
