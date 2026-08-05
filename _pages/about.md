@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 Hi! I am a second-year Information Science PhD student at the [University of Washington](https://ischool.uw.edu/programs/phd), advised by [Dr. Melanie Walsh](https://melaniewalsh.org/). My work is supported by the UW GSEE Graduate Excellence Award.
+<!-- and the Meta AI Mentorship Program. I am also a Visiting AI Researcher at Meta FAIR, focusing on LLM cultural bias. -->
 
 Broadly, my research interests include natural language generation, user-LLM interaction, and AI policy. Specifically, **my research centers on understanding how language models will impact literature and communication.** I aim to evaluate LLM-generated texts, understand their societal impact, and propose how we might responsibly respond to this media through user-informed policy.
 
@@ -17,9 +18,11 @@ In my free time, I like to practice ballet, watch anime, [travel](https://imanii
 
 ## **news**
 
-<!-- 🧾 May 2027: passed my general exams, officially a PhD Candidate!
+<!-- 🧾 May 2027: passed my general exams, officially a PhD Candidate! excited to continue work on user-LLM interaction for creative tasks
 
-✏️ October 2026: paper on AI-generated autobiographies accepted to [CHR 2027](https://2027.computational-humanities-research.org/)
+✏️ April 2027: survey paper on fiction and literature as NLP inquiry accepted to [ACL 2027](https://2027.aclweb.org/) see you in Kyoto!
+
+✏️ October 2026: paper on anthropomorphism in AI-generated autobiographies accepted to [CHR 2027](https://2027.computational-humanities-research.org/)! see you in Manchester!
 
 🧠 October 2026: presenting work on fiction in NLP at [TADA 2026](https://tada2026.org/)
 
@@ -31,7 +34,7 @@ In my free time, I like to practice ballet, watch anime, [travel](https://imanii
 
 🧠 April 2026: presenting work on AI-generated autobiographies at the inaugural [Hopkins Humanities of AI Workshop](https://humanitiesofaiworkshop.com/)
 
-✏️ April 2026: my first first-author [paper](https://dl.acm.org/doi/10.1145/3805689.3812287) on LLM gender bias in talking animal stories accepted to [FAccT 2026](https://facctconference.org/index.html)!
+✏️ April 2026: my first first-author [paper](https://dl.acm.org/doi/10.1145/3805689.3812287) on LLM gender bias in talking animal stories accepted to [FAccT 2026](https://facctconference.org/index.html)! see you in Montreal!
 
 🍎 October 2025: teaching at UW Continuum College for AU25
 
