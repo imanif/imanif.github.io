@@ -23,9 +23,9 @@ In my free time, I like to practice ballet, watch anime, [travel](https://imanii
 
 🧠 October 2026: presenting work on fiction in NLP at [TADA 2026](https://tada2026.org/)
 
-👩🏽‍💻 September 2026: starting as a Visiting AI Researcher at Meta FAIR
+👩🏽‍💻 September 2026: starting as a Visiting AI Researcher at Meta FAIR -->
 
-🗞️ July 2026: our work on Ai-generated animal stories was featured in UW News -->
+🗞️ August 2026: our FAccT paper was covered in [GeekWire](https://www.geekwire.com/2026/he-it-but-rarely-she-when-ai-models-write-kids-stories-about-animals-female-characters-vanish/)
 
 ☀️ June 2026: starting my Summer RAship at [HDSSI26](https://humanitiesdatalab.ds.lib.uw.edu/hdssi/)
 
