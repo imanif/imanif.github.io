@@ -28,7 +28,7 @@ In my free time, I like to practice ballet, watch anime, [travel](https://imanii
 
 👩🏽‍💻 September 2026: starting as a Visiting AI Researcher at Meta FAIR -->
 
-🗞️ August 2026: our FAccT '26 paper was covered in [GeekWire](https://www.geekwire.com/2026/he-it-but-rarely-she-when-ai-models-write-kids-stories-about-animals-female-characters-vanish/)
+🗞️ August 2026: our FAccT '26 paper was covered in [GeekWire](https://www.geekwire.com/2026/he-it-but-rarely-she-when-ai-models-write-kids-stories-about-animals-female-characters-vanish/) and [UW News](https://www.washington.edu/news/2026/08/06/ai-bias-kids-stories/)
 
 ☀️ June 2026: starting my Summer RAship at [HDSSI26](https://humanitiesdatalab.ds.lib.uw.edu/hdssi/)
 
