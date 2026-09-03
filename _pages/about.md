@@ -20,15 +20,13 @@ In my free time, I like to practice ballet, watch anime, [travel](https://imanii
 
 <!-- 🧾 May 2027: passed my general exams, officially a PhD Candidate! excited to continue work on user-LLM interaction for creative tasks
 
-✏️ April 2027: survey paper on fiction and literature as NLP inquiry accepted to [ACL 2027](https://2027.aclweb.org/) see you in Kyoto!
+✏️ April 2027: survey paper on fiction and literature as NLP inquiry accepted to [ACL 2027](https://2027.aclweb.org/), see you in Kyoto!
 
-✏️ October 2026: paper on anthropomorphism in AI-generated autobiographies accepted to [CHR 2027](https://2027.computational-humanities-research.org/)! see you in Manchester!
-
-🧠 October 2026: presenting work on fiction in NLP at [TADA 2026](https://tada2026.org/)
+✏️ October 2026: paper on anthropomorphism in AI-generated autobiographies accepted to [CHR 2027](https://2027.computational-humanities-research.org/), see you in Manchester!
 
 👩🏽‍💻 September 2026: starting as a Visiting AI Researcher at Meta FAIR -->
 
-🗞️ August 2026: our FAccT '26 paper was covered in [UW News](https://www.washington.edu/news/2026/08/06/ai-bias-kids-stories/) and [GeekWire](https://www.geekwire.com/2026/he-it-but-rarely-she-when-ai-models-write-kids-stories-about-animals-female-characters-vanish/) 
+🗞️ August 2026: our FAccT '26 paper was covered in [Seattle Times](https://urldefense.com/v3/__https://www.seattletimes.com/seattle-news/uw-researchers-say-ai-is-coming-for-kids-books-but-its-biased/), [Futurism](https://futurism.com/future-society/ai-kids-stories-patterns), [UW News](https://www.washington.edu/news/2026/08/06/ai-bias-kids-stories/), and [GeekWire](https://www.geekwire.com/2026/he-it-but-rarely-she-when-ai-models-write-kids-stories-about-animals-female-characters-vanish/) 
 
 ☀️ June 2026: starting my Summer RAship at [HDSSI26](https://humanitiesdatalab.ds.lib.uw.edu/hdssi/)
 
